@@ -3,7 +3,7 @@
 Production-ready API health monitoring system built with Node.js, Express, MongoDB, and Redis.
 
 ---
-## 📁 Folder Structure
+## Folder Structure
 
 ```
 smart-api-monitor/
