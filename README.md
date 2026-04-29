@@ -1,9 +1,8 @@
-# 🚦 Smart API Monitor
+#  Smart API Monitor
 
 Production-ready API health monitoring system built with Node.js, Express, MongoDB, and Redis.
 
 ---
-
 ## 📁 Folder Structure
 
 ```
@@ -44,7 +43,7 @@ smart-api-monitor/
 
 ---
 
-## ⚡ Quick Start
+##  Quick Start
 
 ### Prerequisites
 - Node.js ≥ 20
@@ -86,7 +85,7 @@ Server starts at **http://localhost:3000**
 
 ---
 
-## 🌐 API Reference
+##  API Reference
 
 | Method | Endpoint               | Description                          |
 |--------|------------------------|--------------------------------------|
@@ -176,7 +175,7 @@ PATCH http://localhost:3000/alerts/ALERT_ID/resolve
 
 ---
 
-## 🔔 Alert System
+##  Alert System
 
 - **Threshold**: `ALERT_FAILURE_THRESHOLD` consecutive failures (default: 3)
 - **Channels**: Console log is always active. Email and Slack are ready-to-uncomment in `alertService.js`
@@ -185,7 +184,7 @@ PATCH http://localhost:3000/alerts/ALERT_ID/resolve
 
 ---
 
-## 🐳 Docker Setup
+##  Docker Setup
 
 ### Dockerfile
 ```dockerfile
@@ -247,7 +246,7 @@ docker compose up --build
 
 ---
 
-## 🔒 Production Checklist
+## Production Checklist
 
 - [ ] Set `NODE_ENV=production`
 - [ ] Use strong `MONGO_URI` with auth
