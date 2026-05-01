@@ -40,15 +40,48 @@ smart-api-monitor/
 ├── package.json
 └── README.md
 ```
-[Dashboard Overview]
-<img width="1052" height="723" alt="image" src="https://github.com/user-attachments/assets/cf6bd44b-cb8e-491b-87a0-61d48008364a" />
-###  What this dashboard shows
+## 📊 Dashboard Overview
 
-* ✅ **Real-time API monitoring**
-* ⏱️ **Response time tracking (latency graphs)**
-* 📊 **Multi-region performance visualization**
-* 🔄 **Auto-refreshing metrics (every 60s)**
-* 🚨 **Incident and uptime tracking**
+<img width="1067" height="727" alt="Screenshot 2026-05-01 152652" src="https://github.com/user-attachments/assets/41752111-104e-4edd-ad2f-496b21239f5a" />
+
+
+### 🧠 What this shows
+
+* Real-time API health monitoring
+* Service status tracking (Operational / Down / Maintenance)
+* Latency visualization
+* Uptime tracking
+
+---
+
+## 🚨 Incident Monitoring & Live Feed
+
+<img width="1070" height="722" alt="Screenshot 2026-05-01 152742" src="https://github.com/user-attachments/assets/1e9a2054-e1e7-4b22-9a40-32f54764f303" />
+
+### ⚡ Features
+
+* Live incident feed
+* Error detection (timeouts, delays)
+* Timestamped alerts
+* System status updates
+
+---
+
+## 📌 Project Highlights
+
+* 📡 Real-time API monitoring system
+* 📊 Performance tracking (latency + uptime)
+* 🚨 Incident detection & logging
+* ⚡ Multi-service comparison
+* 🔄 Auto-refresh dashboard
+
+---
+
+## 🏷️ Badges
+
+![Status](https://img.shields.io/badge/status-active-success)
+![Backend](https://img.shields.io/badge/backend-nodejs-green)
+![Type](https://img.shields.io/badge/project-monitoring-blue)
 
 This dashboard gives a complete overview of system health and performance similar to tools like UptimeRobot or Datadog.
 ![Status](https://img.shields.io/badge/status-active-success)
