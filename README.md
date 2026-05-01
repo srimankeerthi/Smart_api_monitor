@@ -1,7 +1,18 @@
 #  Smart API Monitor
 
-Production-ready API health monitoring system built with Node.js, Express, MongoDB, and Redis.
+## 🚀 Overview
 
+Smart API Monitor is a production-style backend monitoring system that tracks API health, latency, uptime, and incidents in real time.
+
+It simulates core features of tools like **UptimeRobot, Datadog, and Grafana**.
+
+---
+## 🎯 Why this project?
+
+- Detect API failures before users notice  
+- Monitor performance degradation  
+- Automate alerting for critical issues  
+- Provide real-time system visibility
 ---
 ## Folder Structure
 
