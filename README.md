@@ -79,9 +79,7 @@ smart-api-monitor/
 
 ## 🏷️ Badges
 
-![Status](https://img.shields.io/badge/status-active-success)
-![Backend](https://img.shields.io/badge/backend-nodejs-green)
-![Type](https://img.shields.io/badge/project-monitoring-blue)
+
 
 This dashboard gives a complete overview of system health and performance similar to tools like UptimeRobot or Datadog.
 ![Status](https://img.shields.io/badge/status-active-success)
