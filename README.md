@@ -76,7 +76,19 @@ smart-api-monitor/
 * 🔄 Auto-refresh dashboard
 
 ---
-
+Monitoring Capabilities
+📡 Continuous API health checks
+📊 Latency & performance visualization
+📉 Uptime tracking & stability analysis
+⚡ Multi-service comparison
+🚨 Incident detection and logging
+---
+⚙️ System Design (Simple Flow)
+APIs are monitored at regular intervals
+Metrics are stored in database/cache
+Backend processes health & latency data
+Frontend fetches and displays live updates
+---
 ## 🏷️ Badges
 
 
