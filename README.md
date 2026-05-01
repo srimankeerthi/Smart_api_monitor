@@ -40,6 +40,22 @@ smart-api-monitor/
 ├── package.json
 └── README.md
 ```
+[Dashboard Overview]
+<img width="1052" height="723" alt="image" src="https://github.com/user-attachments/assets/cf6bd44b-cb8e-491b-87a0-61d48008364a" />
+###  What this dashboard shows
+
+* ✅ **Real-time API monitoring**
+* ⏱️ **Response time tracking (latency graphs)**
+* 📊 **Multi-region performance visualization**
+* 🔄 **Auto-refreshing metrics (every 60s)**
+* 🚨 **Incident and uptime tracking**
+
+This dashboard gives a complete overview of system health and performance similar to tools like UptimeRobot or Datadog.
+![Status](https://img.shields.io/badge/status-active-success)
+![Node](https://img.shields.io/badge/backend-nodejs-green)
+![Monitoring](https://img.shields.io/badge/type-monitoring-blue)
+
+
 
 ---
 
