@@ -113,7 +113,7 @@ smart-api-monitor/
 
 
 
-This dashboard gives a complete overview of system health and performance similar to tools like UptimeRobot or Datadog.
+This dashboard gives a complete overview of system health and performance similar to tools like UptimeRobot 
 ![Status](https://img.shields.io/badge/status-active-success)
 ![Node](https://img.shields.io/badge/backend-nodejs-green)
 ![Monitoring](https://img.shields.io/badge/type-monitoring-blue)
